@@ -1,4 +1,3 @@
-- currently learning Python
 - camisadesaudade on discord
 
 <!---
